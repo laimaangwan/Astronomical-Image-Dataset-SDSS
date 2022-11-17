@@ -1,4 +1,4 @@
-# Astronomical-Image-Dataset-SDSS
+# Astronomical-Image-Dataset
 
 - train: Train Dataset
 - test: Test Dataset
